@@ -1,10 +1,20 @@
 .hero {
   background: black;
+  padding: 120px 20px;
+  text-align: center;
 }
 
 h1,
 h3 {
   font-family: "Josefin Slab", serif;
   color: antiquewhite;
-  text-align: center;
+}
+
+.hero a {
+  background-color: violet;
+  color: white;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 27px;
+  padding: 10px 25px;
 }
