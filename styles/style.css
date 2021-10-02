@@ -4,10 +4,15 @@
   text-align: center;
 }
 
-h1,
-h3 {
+h3,
+p {
   font-family: "Josefin Slab", serif;
-  color: antiquewhite;
+  color: white;
+}
+
+h1 {
+  font-family: "Josefin Slab", serif;
+  color: wheat;
 }
 
 .hero a {
