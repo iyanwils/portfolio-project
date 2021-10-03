@@ -1,5 +1,8 @@
+* {
+  background-color: black;
+}
+
 .hero {
-  background: black;
   padding: 120px 20px;
   text-align: center;
 }
@@ -10,7 +13,8 @@ p {
   color: white;
 }
 
-h1 {
+h1,
+h2 {
   font-family: "Josefin Slab", serif;
   color: wheat;
   font-weight: bold;
@@ -23,4 +27,16 @@ h1 {
   font-size: 16px;
   line-height: 27px;
   padding: 10px 25px;
+}
+
+.navigation {
+  color: white;
+}
+
+.info {
+  color: white;
+}
+
+.email-link {
+  text-decoration: none;
 }
