@@ -40,7 +40,7 @@ h2 {
 
 .change-color {
   color: white;
-  text-decoration: none;
+  font-weight: bold;
 }
 
 footer .social-links a {
